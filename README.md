@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Daniel
 
-<!--
-**danielzr-dev/danielzr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma en Madrid.
 
-Here are some ideas to get you started:
+Vengo del ámbito sanitario y estoy orientando mi carrera al desarrollo Java y Android.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Actualmente estoy
+
+- Construyendo un renderizador 3D en Java desde cero
+- Aprendiendo desarrollo web con The Odin Project
+- Preparando mi TFG
+
+## Tecnologías
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
